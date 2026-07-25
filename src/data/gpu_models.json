@@ -1,0 +1,23 @@
+[
+  { "id": "rtx5090", "name": "NVIDIA RTX 5090", "vendor": "nvidia", "vram": 32, "performanceMultiplier": 2.5 },
+  { "id": "rtx5080", "name": "NVIDIA RTX 5080", "vendor": "nvidia", "vram": 24, "performanceMultiplier": 1.9 },
+  { "id": "rtx4090", "name": "NVIDIA RTX 4090", "vendor": "nvidia", "vram": 24, "performanceMultiplier": 1.8 },
+  { "id": "rtx4080", "name": "NVIDIA RTX 4080", "vendor": "nvidia", "vram": 16, "performanceMultiplier": 1.4 },
+  { "id": "rtx4070ti", "name": "NVIDIA RTX 4070 Ti", "vendor": "nvidia", "vram": 12, "performanceMultiplier": 1.1 },
+  { "id": "rtx4070", "name": "NVIDIA RTX 4070", "vendor": "nvidia", "vram": 12, "performanceMultiplier": 1.0 },
+  { "id": "rtx4060ti", "name": "NVIDIA RTX 4060 Ti", "vendor": "nvidia", "vram": 16, "performanceMultiplier": 0.9 },
+  { "id": "rtx4060", "name": "NVIDIA RTX 4060", "vendor": "nvidia", "vram": 8, "performanceMultiplier": 0.7 },
+  { "id": "rtx3090", "name": "NVIDIA RTX 3090", "vendor": "nvidia", "vram": 24, "performanceMultiplier": 1.3 },
+  { "id": "rtx3080", "name": "NVIDIA RTX 3080", "vendor": "nvidia", "vram": 10, "performanceMultiplier": 1.0 },
+  { "id": "rtx3070", "name": "NVIDIA RTX 3070", "vendor": "nvidia", "vram": 8, "performanceMultiplier": 0.8 },
+  { "id": "rx7900xtx", "name": "AMD RX 7900 XTX", "vendor": "amd", "vram": 24, "performanceMultiplier": 1.5 },
+  { "id": "rx7900xt", "name": "AMD RX 7900 XT", "vendor": "amd", "vram": 20, "performanceMultiplier": 1.3 },
+  { "id": "rx7800xt", "name": "AMD RX 7800 XT", "vendor": "amd", "vram": 16, "performanceMultiplier": 1.1 },
+  { "id": "mac-m4-max", "name": "Apple M4 Max (Unified)", "vendor": "apple", "vram": 64, "performanceMultiplier": 1.6 },
+  { "id": "mac-m4-pro", "name": "Apple M4 Pro (Unified)", "vendor": "apple", "vram": 32, "performanceMultiplier": 1.2 },
+  { "id": "mac-m3-max", "name": "Apple M3 Max (Unified)", "vendor": "apple", "vram": 48, "performanceMultiplier": 1.3 },
+  { "id": "mac-m3-pro", "name": "Apple M3 Pro (Unified)", "vendor": "apple", "vram": 24, "performanceMultiplier": 1.0 },
+  { "id": "mac-m2-ultra", "name": "Apple M2 Ultra (Unified)", "vendor": "apple", "vram": 96, "performanceMultiplier": 1.4 },
+  { "id": "arc-a770", "name": "Intel Arc A770", "vendor": "intel", "vram": 16, "performanceMultiplier": 0.9 },
+  { "id": "arc-a750", "name": "Intel Arc A750", "vendor": "intel", "vram": 8, "performanceMultiplier": 0.7 }
+]

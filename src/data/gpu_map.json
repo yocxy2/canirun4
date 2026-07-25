@@ -1,0 +1,82 @@
+[
+  {
+    "name": "NVIDIA RTX 4090",
+    "vram": 24,
+    "tier": "enterprise",
+    "computeCapability": "9.0"
+  },
+  {
+    "name": "NVIDIA RTX 4080",
+    "vram": 16,
+    "tier": "high",
+    "computeCapability": "8.9"
+  },
+  {
+    "name": "NVIDIA RTX 4070 Ti",
+    "vram": 12,
+    "tier": "high",
+    "computeCapability": "8.9"
+  },
+  {
+    "name": "NVIDIA RTX 4070",
+    "vram": 12,
+    "tier": "mid",
+    "computeCapability": "8.9"
+  },
+  {
+    "name": "NVIDIA RTX 3090",
+    "vram": 24,
+    "tier": "high",
+    "computeCapability": "8.6"
+  },
+  {
+    "name": "NVIDIA RTX 3080",
+    "vram": 10,
+    "tier": "mid",
+    "computeCapability": "8.6"
+  },
+  {
+    "name": "NVIDIA RTX 3070",
+    "vram": 8,
+    "tier": "mid",
+    "computeCapability": "8.6"
+  },
+  {
+    "name": "NVIDIA RTX 3060",
+    "vram": 12,
+    "tier": "low",
+    "computeCapability": "8.6"
+  },
+  {
+    "name": "NVIDIA RTX 2080 Ti",
+    "vram": 11,
+    "tier": "mid",
+    "computeCapability": "7.5"
+  },
+  {
+    "name": "NVIDIA GTX 1080 Ti",
+    "vram": 11,
+    "tier": "low",
+    "computeCapability": "6.1"
+  },
+  {
+    "name": "Apple M1 Max",
+    "vram": 32,
+    "tier": "high"
+  },
+  {
+    "name": "Apple M1 Pro",
+    "vram": 16,
+    "tier": "mid"
+  },
+  {
+    "name": "AMD RX 7900 XTX",
+    "vram": 24,
+    "tier": "high"
+  },
+  {
+    "name": "AMD RX 6800 XT",
+    "vram": 16,
+    "tier": "mid"
+  }
+]
